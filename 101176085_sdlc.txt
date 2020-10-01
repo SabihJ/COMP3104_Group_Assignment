@@ -5,3 +5,6 @@ When we have a biased response from the development and operations teams, it is 
 
 Better Communication and Cooperation:
 Improved DevOps software development culture. The common teams are happier and more productive. Culture focuses on performance rather than individual goals. When teams trust each other, they can experiment and innovate more effectively. Teams can focus on bringing the product to market or production, and their key performance indicators must be organized accordingly.
+
+Greater Competencies:
+High efficiency helps accelerate development and makes it less prone to errors. There are ways to automate DevOps tasks. Continuous integration servers automate the code testing process, reducing the amount of manual work required. This means that software engineers can focus on completing tasks that can not be automated.
