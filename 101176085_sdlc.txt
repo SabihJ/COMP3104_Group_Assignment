@@ -2,3 +2,6 @@ SDLC is the acronym of Software Development Life Cycle. It is also called as Sof
 
 Shorter Development Cycles, Faster Innovation:
 When we have a biased response from the development and operations teams, it is often difficult to tell if the application is operational. When development teams simply submit a request, the cycle times are unnecessarily extended.
+
+Better Communication and Cooperation:
+Improved DevOps software development culture. The common teams are happier and more productive. Culture focuses on performance rather than individual goals. When teams trust each other, they can experiment and innovate more effectively. Teams can focus on bringing the product to market or production, and their key performance indicators must be organized accordingly.
