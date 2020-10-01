@@ -1,1 +1,4 @@
 SDLC is the acronym of Software Development Life Cycle. It is also called as Software Development Process. SDLC is a framework defining tasks performed at each step in the software development process.
+
+Shorter Development Cycles, Faster Innovation:
+When we have a biased response from the development and operations teams, it is often difficult to tell if the application is operational. When development teams simply submit a request, the cycle times are unnecessarily extended.
