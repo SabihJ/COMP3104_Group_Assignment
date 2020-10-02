@@ -1,0 +1,1 @@
+It is important to learn the about the software development cycle because understanding the process will enable the engineer to understand processes that can be automated and which cannot be automated.
