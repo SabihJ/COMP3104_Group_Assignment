@@ -1,2 +1,11 @@
 This file will contain information about COMP 3104
 DevOps course 
+
+Course professor GitHub:
+https://github.com/pritamworld/
+
+Course code:
+COMP 3104
+
+Professor Name:
+Pritesh.Patel

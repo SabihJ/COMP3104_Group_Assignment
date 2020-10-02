@@ -1,2 +1,12 @@
 This file will contain information about George Brown
 college
+
+Website:
+https://www.georgebrown.ca/
+
+Address:
+Casa loma
+160 Kendal Ave, Toronto, ON M5R 1M3 
+
+Phone:
+(416) 415-2000
