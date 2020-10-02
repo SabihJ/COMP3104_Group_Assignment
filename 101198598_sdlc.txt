@@ -5,3 +5,5 @@ A DevOps Engineer will work with IT developers to facilitate better coordination
 
 
 The learning of DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation. If the operations and development teams are in different silos then obviously it will be a hard task to identify whether the application is ready for operation or not.
+
+The various phases such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring constitute DevOps Life cycle. Now let us have a look at each of the phases of DevOps life cycle one by one.
