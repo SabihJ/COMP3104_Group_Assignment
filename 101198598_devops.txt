@@ -3,3 +3,6 @@ DevOps course
 
 Course professor GitHub:
 https://github.com/pritamworld/
+
+Course code:
+COMP 3104
