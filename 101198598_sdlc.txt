@@ -1,2 +1,4 @@
 This file will contain details about important of learning
 DevOps engineer in software development cycle 
+
+A DevOps Engineer will work with IT developers to facilitate better coordination among operations, development, and testing functions by automating and streamlining the integration and deployment processes. 
