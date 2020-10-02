@@ -6,3 +6,6 @@ https://github.com/pritamworld/
 
 Course code:
 COMP 3104
+
+Professor Name:
+Pritesh.Patel
